@@ -1,6 +1,4 @@
 
-You have a captain's log due before 2022-07-10 (in 2 days)! Log it now!
-0x06. Python - Classes and Objects
 Python
 OOP
  By Guillaume
